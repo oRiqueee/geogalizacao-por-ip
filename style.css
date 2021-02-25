@@ -1,0 +1,10 @@
+body {
+	background-image: url("https://img.freepik.com/free-photo/dark-grey-black-slate-texture-with-high-resolution-background-natural-black-stone-wall_38607-444.jpg?size=626&ext=jpg")
+}
+
+div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    margin: auto;
+  }
